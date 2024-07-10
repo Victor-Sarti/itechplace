@@ -1,6 +1,6 @@
 import { resourcesLinks,platformLinks,communityLinks } from "../constants";
-import whats from "../assets/profile-pictures/whatsapp.svg"
-import inst from "../assets/profile-pictures/instagram.png"
+import whats from "../assets/profile-pictures/whatsapp1.png"
+import inst from "../assets/profile-pictures/instagram1.png"
        
 const Footer = () => {
   return (
