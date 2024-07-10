@@ -43,12 +43,13 @@ const NavBar = () => {
                                     </li>
                                 ))}
                             </ul>
-                            {/* <div className="flex space-x-6">
-                                <a href="#" className="py-2 px-3 border rounded-md">
-                                    Sing In
+                            <div className="flex space-x-6">
+                                <a href="https://www.instagram.com/itechplace?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="py-2 px-3 border rounded-md">
+                                    Instagram
                                 </a>
-                                <a href="#" className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800"> Creat an Accont</a>
-                            </div> */}
+                                <a href="https://api.whatsapp.com/send/?phone=5511976247505&text&type=phone_number&app_absent=0wa.me/5511976247505" className="py-2 px-3 rounded-md bg-gradient-to-r from-blue-500 to-blue-800"> 
+                                Fale Conosco</a>
+                            </div>
                         </div>
                     )}
         </div>
