@@ -4,7 +4,7 @@ import iphone2 from "../assets/iphone2.png";
 
 const HeroSection = () => {
     return (
-        <div className="flex flex-col items-center mt-6 lg:mt-20">
+        <div className="flex flex-col items-center mt-6 lg:mt-20 ">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
              itechplace
                Assistência Técnica 
@@ -17,10 +17,10 @@ const HeroSection = () => {
             troca de bateria, tela, botões, conectores, câmeras e reparo em placa. Aqui você encontra películas protetoras, capas e diversos acessórios para o seu celular. Além disso, pode adquirir seu iPhone novo ou seminovo em até 12x com o melhor preço e garantia! </p>
 
             <div className="flex justify-center my-10">
-                <a href="#" className="bg-gradient-to-r from-blue-500 to-slade-300 py-3 px-4 mx-3 rounded-md">
+                <a href="https://api.whatsapp.com/send/?phone=5511976247505&text&type=phone_number&app_absent=0wa.me/5511976247505" className="bg-gradient-to-r from-blue-500 to-slade-300 py-3 px-4 mx-3 rounded-md">
                    Fazer Orçamento
                 </a>
-                <a href="#" className="py-3 px-4 mx-3 rounded-md border">
+                <a href="#dep" className="py-3 px-4 mx-3 rounded-md border">
                     Depoimentos
                 </a>
             </div>
