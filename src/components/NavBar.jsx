@@ -22,10 +22,10 @@ const NavBar = () => {
                     </li>
                 ))}
                 </ul>
-                {/* <div className=" hidden lg:flex justify-center space-x-12 items-center">
-                    <a href="#" className="py-2 px-3 border rounded-md">Sing in </a>
-                    <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"> Create an Accont</a>
-                </div> */}
+                <div className=" hidden lg:flex justify-center space-x-12 items-center">
+                    <a href="https://www.instagram.com/itechplace?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="py-2 px-3 border rounded-md">Instagram </a>
+                    <a href="https://api.whatsapp.com/send/?phone=5511976247505&text&type=phone_number&app_absent=0wa.me/5511976247505" className="bg-gradient-to-r from-blue-500 to-blue-800 py-2 px-3 rounded-md"> Fale Conosco Aqui</a>
+                </div>
 
                 <div className="lg:hidden md:flex flex-col justify-end">
                     <button onClick={toggleNavbar}>
