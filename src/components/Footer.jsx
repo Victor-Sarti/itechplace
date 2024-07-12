@@ -1,4 +1,4 @@
-import { resourcesLinks,platformLinks,communityLinks } from "../constants";
+import {platformLinks} from "../constants";
 import whats from "../assets/profile-pictures/whatsapp2.png"
 import inst from "../assets/profile-pictures/instagram2.png"
        
@@ -16,7 +16,7 @@ const Footer = () => {
                 <ul className="space-y-6 ">
                     {platformLinks.map((link,index) => (
                         <li key={index}>
-                            <a className="text-neutral-300  hover:text-white"
+                            <a className="text-neutral-300 hover:text-blue-500"
                              href=
                              {link.href}
                              >{link.text}
