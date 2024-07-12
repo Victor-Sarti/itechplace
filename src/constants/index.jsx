@@ -5,13 +5,6 @@ import { ShieldHalf } from "lucide-react";
 import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
-import user1 from "../assets/profile-pictures/user1.jpg";
-import user2 from "../assets/profile-pictures/user2.jpg";
-import user3 from "../assets/profile-pictures/user3.jpg";
-import user4 from "../assets/profile-pictures/user4.jpg";
-import user5 from "../assets/profile-pictures/user5.jpg";
-import user6 from "../assets/profile-pictures/user6.jpg";
-
 export const navItems = [
   { label: "Quem Somos ?", href: "#" },
   { label: "Recursos", href: "#rec" },
@@ -23,37 +16,31 @@ export const testimonials = [
   {
     user: "Sarti",
     company: "São Paulo",
-    image: user1,
     text: "Estou extremamente satisfeito com os serviços prestados. A equipe foi ágil, profissional e entregou resultados além das minhas expectativas.",
   },
   {
     user: "Laura Cordeiro",
     company: " Diadema",
-    image: user2,
     text: "Não poderia estar mais feliz com o resultado do meu Iphone, ele ficou Perfeito!! .",
   },
   {
     user: "Bruno Miguel",
     company: "São Paulo",
-    image: user3,
     text: "Levar os Celulares dos meus filho para esta empresa foi um prazer. Sua atenção aos detalhes e compromisso com a excelência são louváveis. Eu os recomendo fortemente para quem procura um serviço de primeira linha.",
   },
   {
     user: "José Lucas",
     company: "São Paulo",
-    image: user4,
     text: "Estou impressionado com o nível de profissionalismo e dedicação demonstrado pela equipa. Eles foram capazes de superar nossas expectativas e entregar excelentes resultados.!",
   },
   {
     user: "Gabriel Nascimento",
     company: "São Paulo",
-    image: user5,
     text: "Simplismente amei a qualidade e o atendimento, com certeza voltarei para realizar novas compras, Adorei meus novos Acessorios.",
   },
   {
     user: "Nicolly Galluci",
     company: "São Paulo",
-    image: user6,
     text: "Trabalho Perfeito, Atendimento ÓTIMO e otima localização pertin da estação.",
   },
 ];
