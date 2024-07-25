@@ -15,7 +15,6 @@ const App = () => {
     <Testimonials/>
     <Location/>
    <Footer/>
-    
     </div>
       </>
       )

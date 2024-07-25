@@ -103,7 +103,7 @@ export const checklistItems = [
   {
     title: "Horário de Funcionamento",
     description:
-      "Segunda a Sexta: 09:00",
+      "Segunda a Sexta: 09:00 - 19:30",
       
   },
   {
@@ -113,7 +113,7 @@ export const checklistItems = [
   },
   {
     description:
-      " 15:00 Domingo: Fechado  ",
+      "Domingo: Fechado  ",
       
   },
 
