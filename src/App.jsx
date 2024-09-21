@@ -5,6 +5,7 @@ import FeatureSection from './components/Recurse'
 import Location from './components/Location'
 import Footer from './components/Footer'
 import Testimonials from './components/Depoiments'
+import Login from './pages/login/Login'
 const App = () => {
   return (
       <>
@@ -15,6 +16,9 @@ const App = () => {
     <Testimonials/>
     <Location/>
    <Footer/>
+    </div>
+    <div>
+      <Login/>
     </div>
       </>
       )
