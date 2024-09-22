@@ -5,7 +5,8 @@ import FeatureSection from './components/Recurse'
 import Location from './components/Location'
 import Footer from './components/Footer'
 import Testimonials from './components/Depoiments'
-import Login from './pages/login/Login'
+import LoginCad from './pages/login/LoginCad'
+
 const App = () => {
   return (
       <>
@@ -17,9 +18,7 @@ const App = () => {
     <Location/>
    <Footer/>
     </div>
-    <div>
-      <Login/>
-    </div>
+    <LoginCad/>    
       </>
       )
 }
