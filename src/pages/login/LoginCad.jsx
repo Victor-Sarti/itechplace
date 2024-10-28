@@ -1,5 +1,5 @@
 const LoginCad = () => {
-    return (  <div> oi</div>);
+    return (  <div> </div>);
 }
  
 export default LoginCad;
